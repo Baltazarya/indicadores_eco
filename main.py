@@ -82,7 +82,7 @@ series sendo usadas para analise:
     25492: "Confiança_Consumidor",
     21859: "Producao_Industrial"
 
-Coletando dados de 01/01/2015 a 31/12/2023
+Coletando dados de 01/01/2015 a 01/01/2025
 
 Transformando a coluna 'data' para o formato datetime e ordenando os dados por data
 

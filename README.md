@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # 📊 Análise da Evolução dos Indicadores Econômicos Brasileiros (2015–2025)
 
 Este projeto foi desenvolvido como um **case de demonstração e portfólio** para apresentar habilidades em análise de dados, visualização e interpretação. O objetivo é mostrar como transformar dados públicos em insights úteis e visualmente informativos.
@@ -90,4 +88,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 **[Baltazar]**  
 Estatístico
 📬 [LinkedIn](https://www.linkedin.com/in/henrique-baltazar-34b21621a/)
->>>>>>> c1e083a (Versão "final" do projeto)
+
