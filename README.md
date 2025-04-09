@@ -60,11 +60,7 @@ Este projeto foi desenvolvido como um **case de demonstração e portfólio** pa
    pip install -r requirements.txt
    ```
 
-3. Execute os notebooks:
-   ```bash
-   jupyter notebook
-   ```
-
+3. Faça o quiser com os arquivos
 ---
 
 ## 🎯 Objetivo do Projeto
