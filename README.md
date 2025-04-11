@@ -81,7 +81,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## ✍️ Autor
 
-**[Baltazar]**  
+**[Henrique Baltazar]**  
 Estatístico
 📬 [LinkedIn](https://www.linkedin.com/in/henrique-baltazar-34b21621a/)
 
